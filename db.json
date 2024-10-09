@@ -400,42 +400,6 @@
         "lng": "43.89038085937501"
       },
       "id": 98443250
-    },
-    {
-      "cityName": "Chegem",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2024-10-08T23:15:56.897Z",
-      "notes": "",
-      "position": {
-        "lat": "43.13306116240615",
-        "lng": "43.05541992187501"
-      },
-      "id": 98443251
-    },
-    {
-      "cityName": "Karachayevsk",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2024-10-08T23:16:53.546Z",
-      "notes": "",
-      "position": {
-        "lat": "43.34116005412307",
-        "lng": "41.80297851562501"
-      },
-      "id": 98443252
-    },
-    {
-      "cityName": "Sochi",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2024-10-08T23:16:55.821Z",
-      "notes": "",
-      "position": {
-        "lat": "43.58039085560786",
-        "lng": "40.57250976562501"
-      },
-      "id": 98443253
     }
   ]
 }
